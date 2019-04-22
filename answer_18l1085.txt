@@ -1,0 +1,7 @@
+EXERCISE 2
+After writing virual the area function of shape becomes virtual and when any fun of this class has call area of shape also called
+Exercise 4 On calling
+ 
+shape *s1= new triangle(1.0,9.0, “Red”);// constructor of triangle invoked
+delete s1; //identify which destr
+ thes lines without virtual only derived class destrctor called and on virual also base class desctrctor called
